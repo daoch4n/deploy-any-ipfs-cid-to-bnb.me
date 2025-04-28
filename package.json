@@ -1,0 +1,26 @@
+{
+  "name": "daoko-bnb-domain-manager",
+  "version": "1.0.0",
+  "description": "Tools for managing the daoko.bnb domain on the BNB Chain",
+  "type": "module",
+  "scripts": {
+    "update": "node update.js",
+    "verify": "node verify.js",
+    "check": "node check.js"
+  },
+  "keywords": [
+    "ipfs",
+    "bnb",
+    "domain",
+    "blockchain"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2"
+  },
+  "dependencies": {
+    "content-hash": "^2.5.2"
+  }
+}
