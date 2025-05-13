@@ -2,7 +2,7 @@
 So, you got yourself sweet new .bnb domain, but what to do with it except using it as fancy name of your wallet? Host some DApp there! While [BNB.me](https://bnb.me) natively allows you to deploy simple template sites , with this repo you can go further and host any static website (or DApp) there!
 ## This repo contains tools for deploying [DaokoTube](https://github.com/dtub/DaokoTube) (or anything else you desire) to your [BNB domain](https://space.id).
 
-The `update.js` script allows you to deploy a specific IPFS hash to your BNB domain obtained vis [SpaceID](https://www.space.id/).
+The `update.js` script allows you to deploy a specific IPFS hash to your BNB domain obtained via [SpaceID](https://www.space.id/).
 
 ### Prerequisites
 
@@ -272,7 +272,3 @@ After deploying your content to IPFS and updating your BNB domain, you can acces
 3. **Web3-enabled Browsers**: Some browsers like Brave can directly resolve `your-domain.bnb` without a gateway
 
 The BNB.me gateway automatically resolves your domain name to the IPFS hash stored in your resolver contract, providing a human-readable URL for your decentralized website.
-
-## License
-
-This project is licensed under the MIT License.
