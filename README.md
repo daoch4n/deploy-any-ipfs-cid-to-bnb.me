@@ -1,6 +1,6 @@
 # [daoko.bnb](https://daoko.bnb.me) Deployment Tools
 
-This directory contains tools for deploying [DaokoTube](https://github.com/dtub/DaokoTube) to the [daoko.bnb](https://daoko.bnb.me) BNB Chain domain.
+This repository contains tools for deploying [DaokoTube](https://github.com/dtub/DaokoTube) to the [daoko.bnb](https://daoko.bnb.me) BNB Chain domain.
 
 ## IPFS Hash Deployment
 
