@@ -1,6 +1,6 @@
 # [daoko.bnb](https://daoko.bnb.me) Deployment Tools
 
-This repository contains tools for deploying [DaokoTube](https://github.com/dtub/DaokoTube) (or anything else you desire) to your [BNB](https://space.id) BNB Chain domain.
+This repository contains tools for deploying [DaokoTube](https://github.com/dtub/DaokoTube) (or anything else you desire) to your [BNB](https://space.id) Chain domain.
 
 ## IPFS Hash Deployment
 
