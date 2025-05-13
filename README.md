@@ -1,6 +1,6 @@
 # [daoko.bnb](https://daoko.bnb.me) Deployment Tools
 So, you got yourself sweet new .bnb domain, but what to do with it except using it as fancy name of your wallet? Host some DApp there! While [BNB.me](https://bnb.me) natively allows you to deploy simple template sites , with this repo you can go further and host any static website (or DApp) there!
-## This repository contains tools for deploying [DaokoTube](https://github.com/dtub/DaokoTube) (or anything else you desire) to your [BNB](https://space.id) Chain domain.
+## This repo contains tools for deploying [DaokoTube](https://github.com/dtub/DaokoTube) (or anything else you desire) to your [BNB domain](https://space.id).
 
 The `update.js` script allows you to deploy a specific IPFS hash to your BNB domain obtained vis [SpaceID](https://www.space.id/).
 
