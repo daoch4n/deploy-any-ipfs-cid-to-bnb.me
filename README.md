@@ -1,17 +1,17 @@
-# daoko.bnb Deployment Tools
+# [daoko.bnb](https://daoko.bnb.me) Deployment Tools
 
-This directory contains tools for deploying DaokoTube to the daoko.bnb BNB Chain domain.
+This directory contains tools for deploying [DaokoTube](https://github.com/dtub/DaokoTube) to the [daoko.bnb](https://daoko.bnb.me) BNB Chain domain.
 
 ## IPFS Hash Deployment
 
-The `update.js` script allows you to deploy a specific IPFS hash to your daoko.bnb domain (or any other BNB domain you own).
+The `update.js` script allows you to deploy a specific IPFS hash to your BNB domain obtained vis [SpaceID](https://www.space.id/).
 
 ### Prerequisites
 
 1. Node.js (v14+) installed
 2. A BNB Chain wallet with BNB for gas fees
 3. A registered .bnb domain through [Space.ID](https://space.id)
-4. Initial setup completed on [BNB.me](https://bnb.me)
+4. Deployed any standart template on [BNB.me](https://bnb.me)
 
 ### Setting Up Your BNB Domain
 
