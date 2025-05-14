@@ -21,25 +21,15 @@ The `update.js` script allows you to deploy a specific IPFS hash to your BNB dom
 
 Before you can deploy content to your BNB domain, you need to register and set up your domain. This is a one-time setup process:
 
-#### Option 1: Register a New Domain (Recommended)
+#### Option 1: Register a New Domain
 
-1. Visit [Space.ID](https://space.id) and connect your wallet:
-   ```bash
-   # Make sure you have BNB in your wallet for domain registration
-   # Typical costs range from 5-20 BNB depending on domain length
-   ```
+1. Visit [Space.ID](https://space.id) and connect your wallet.
 
-2. Purchase your desired .bnb domain name:
-   ```bash
-   # Example: your-name.bnb
-   # Registration periods are typically 1-5 years
-   ```
+2. Purchase your desired .bnb domain name.
 
 3. Set up initial resolver on BNB.me:
-   ```bash
-   # Visit https://bnb.me and connect the same wallet
-   # Create a basic website to establish the resolver contract
-   ```
+   - Visit https://bnb.me and connect the same wallet
+   - Create a basic website to establish the resolver contract
 
 #### Option 2: Use an Existing Domain
 
