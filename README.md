@@ -6,7 +6,10 @@ Host some DApp there!
 <br>
 <br>
 While [BNB.me](https://bnb.me) natively allows you to deploy simple template sites , with this repo you can go further and host any static website!
-### This repo contains tools for deploying [DaokoTube](https://github.com/dtub/DaokoTube) (or anything else you desire) to your [BNB domain](https://space.id).
+
+<img src="https://www.holdstation.news/content/images/2022/10/image-60.png">
+
+### This repo contains tools for deploying DApps to your [BNB domain](https://space.id).
 
 The `update.js` script allows you to deploy a specific IPFS hash to your BNB domain obtained via [SpaceID](https://www.space.id/).
 
